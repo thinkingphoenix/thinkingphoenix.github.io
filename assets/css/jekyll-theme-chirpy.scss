@@ -1,0 +1,55 @@
+---
+---
+
+/* 1. Global Typography (Serif) */
+html, body, p, article, h1, h2, h3, h4, h5, h6, .post-content {
+  font-family: "Georgia", "Times New Roman", "Baskerville", serif !important;
+}
+.post-content {
+  font-size: 1.15rem;
+  line-height: 1.8;
+}
+
+/* 2. Pitch Black Theme Overrides */
+html[data-mode='dark'], 
+html[data-mode='dark'] body, 
+html[data-mode='dark'] #sidebar, 
+html[data-mode='dark'] #main-wrapper,
+html[data-mode='dark'] .card,
+html[data-mode='dark'] #search-input {
+  background: #000000 !important;
+  background-color: #000000 !important;
+}
+
+/* 3. High-Contrast White Borders */
+html[data-mode='dark'] #sidebar {
+  border-right: 1px solid #ffffff !important;
+}
+html[data-mode='dark'] .card,
+html[data-mode='dark'] #search-input,
+html[data-mode='dark'] .post-preview {
+  border: 1px solid #ffffff !important;
+}
+
+/* 4. Tags: White Text and Borders */
+html[data-mode='dark'] .post-meta a, 
+html[data-mode='dark'] .card .post-preview h1,
+html[data-mode='dark'] .tag {
+  color: #ffffff !important;
+  background-color: #000000 !important;
+  border: 1px solid #ffffff !important;
+}
+
+/* 5. Tag and Post Hover: Light Gray Highlights */
+html[data-mode='dark'] .tag:hover,
+html[data-mode='dark'] .post-preview:hover {
+  background-color: #222222 !important;
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+/* Global Link Color Updates */
+html[data-mode='dark'] a {
+  color: #ffffff !important;
+}
