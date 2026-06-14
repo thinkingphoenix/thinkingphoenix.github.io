@@ -1,13 +1,67 @@
 <link rel="icon" type="image/jpeg" href="{{ '/assets/logo.JPEG' | relative_url }}">
 
 <style>
+  /* 1. Global Typography (Serif) */
   html, body, p, article, h1, h2, h3, h4, h5, h6, .post-content {
     font-family: "Georgia", "Times New Roman", "Baskerville", serif !important;
   }
-  
-  /* Make the text sizing look elegant for poems */
   .post-content {
     font-size: 1.15rem;
     line-height: 1.8;
+  }
+
+  /* 2. Pitch Black Backgrounds (Forces dark theme to be pure black #000000) */
+  html[data-mode='dark'], 
+  html[data-mode='dark'] body, 
+  html[data-mode='dark'] #sidebar, 
+  html[data-mode='dark'] #main-wrapper,
+  html[data-mode='dark'] .card,
+  html[data-mode='dark'] #search-input {
+    background: #000000 !important;
+    background-color: #000000 !important;
+  }
+
+  /* 3. High-Contrast White Borders */
+  html[data-mode='dark'] #sidebar,
+  html[data-mode='dark'] .card,
+  html[data-mode='dark'] footer,
+  html[data-mode='dark'] #search-input,
+  html[data-mode='dark'] .post-preview {
+    border-color: #ffffff !important;
+    border: 1px solid #ffffff !important;
+  }
+  
+  /* Keep the sidebar right-border clean and distinct */
+  html[data-mode='dark'] #sidebar {
+    border-right: 1px solid #ffffff !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+  }
+
+  /* 4. Kill the Blue Tags & Highlights -> Turn to White/Gray */
+  html[data-mode='dark'] .post-meta a, 
+  html[data-mode='dark'] .card .post-preview h1,
+  html[data-mode='dark'] .tag {
+    color: #ffffff !important;
+    background-color: #111111 !important;
+    border: 1px solid #ffffff !important;
+  }
+
+  /* 5. Tag Hover Effect: Light Gray Instead of Blue */
+  html[data-mode='dark'] .tag:hover,
+  html[data-mode='dark'] .post-preview:hover {
+    background-color: #333333 !important;
+    color: #ffffff !important;
+    border-color: #ffffff !important;
+    text-decoration: none !important;
+  }
+
+  /* Ensure text links remain white/light gray instead of default blue */
+  html[data-mode='dark'] a {
+    color: #e0e0e0;
+  }
+  html[data-mode='dark'] a:hover {
+    color: #ffffff;
   }
 </style>
