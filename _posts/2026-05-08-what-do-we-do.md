@@ -2,7 +2,7 @@
 title: What Do We Do?
 date: 2026-05-08 09:00:00 +0000
 categories: [Poetry]
-tags: [poetry, hope, despair, togetherness, self-exploration]
+tags: [hope, despair, togetherness, self-exploration]
 ---
 
 What do we do
