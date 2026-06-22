@@ -1,5 +1,5 @@
 ---
-title: 
+title: emotion_nullifying_sequence.sh
 date: 2026-05-30 09:00:00 +0000
 categories: [Poetry]
 tags: [dystopian future, emotions, escapism]
@@ -52,6 +52,6 @@ Scanning for issues in stability...
 ALERT : Detected anomalies.  
 Loading source. Scanning the directories....
 ^C
-```  
 Error : sequence terminated abrutply.  
 [hidden-user] ~$ : 
+```
