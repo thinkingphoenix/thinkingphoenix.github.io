@@ -1,6 +1,6 @@
 ---
 title: small talk within shared uni_verses
-date: 2026-08-09 09:00:00 +0000
+date: 2026-08-09 00:00:00 +0000
 categories: [Poetry]
 tags: [love, admiration, beauty, self-harm]
 ---
