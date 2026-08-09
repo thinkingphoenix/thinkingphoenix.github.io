@@ -1,7 +1,12 @@
 module Jekyll
   class WordColorizerFilter < Liquid::Filter
     def colorize_words(text)
-      colors = @context.registers[:site].data['word_colors']['word_colors']
+      # Get the word colors from the data file
+      colors = @context.registers[:site].data['word_colors']
+      return text unless colors  # Return unmodified if no colors defined
+      
+      colors = colors['word_colors'] if colors.is_a?(Hash) && colors['word_colors']
+      return text unless colors  # Return unmodified if no word_colors key
       
       result = text.dup
       # Sort by length (longest first) to avoid partial replacements
