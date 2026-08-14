@@ -23,7 +23,7 @@ As it paints
 The secret lanes  
 Of your womanhood lain  
 Bare-breasted, like open terrain,  
-In this divine/depraved game
-We play
-As we remain 
+In this divine/depraved game  
+We play  
+As we remain  
 To our desires, enslaved.   
