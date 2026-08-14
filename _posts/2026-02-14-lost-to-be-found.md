@@ -34,7 +34,7 @@ To be gazed at.
 I'll ensure that my love  
 Is effortless, like breathing for you.  
 No strain, no struggle,  
-Just invisible feelings that bloom.
+Just invisible feelings that bloom.  
 We can salvage what's left of us,  
 Weld the scraps into a beautiful whole,  
 A dimension we can escape into,  

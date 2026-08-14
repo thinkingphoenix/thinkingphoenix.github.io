@@ -37,7 +37,7 @@ But I will mold my words into fists
 So that I can punch through your vanity   
 And watch how your charm morphs  
 Into the abomination you really are.  
-You, who are terrified of scars.
+You, who are terrified of scars.  
 You, who can no longer hurt me.  
 You, whom I will show no courtesy.
 
