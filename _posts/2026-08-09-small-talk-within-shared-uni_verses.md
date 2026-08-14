@@ -4,7 +4,7 @@ date: 2026-08-09 00:00:00 +0000
 categories: [Poetry]
 tags: [love, admiration, beauty, self-harm]
 ---
-Do not lock eyes with me for too long. 
+Do not lock eyes with me for too long.  
 You may end up seeing too much.  
 
 I preach life to you on days you embrace death.   
@@ -48,7 +48,7 @@ The starlight emitted by the iridescent soul within.
 And blinded I am, but I see through your form.  
 Because I do not need eyes for this research.  
 
-Hence, do not lock eyes with me for too long. 
+Hence, do not lock eyes with me for too long.  
 You may end up seeing too much.  
 
 
