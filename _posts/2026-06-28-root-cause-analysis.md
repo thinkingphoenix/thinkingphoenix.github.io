@@ -2,7 +2,7 @@
 title: Root Cause Analysis
 date: 2026-06-28 00:00:00 +0000
 categories: [Poetry]
-tags: [tag1, tag2]
+tags: [logic, analysis, introspection]
 ---
 I fear how love feels.   
 Symptoms of it indicate threat.  

@@ -2,7 +2,7 @@
 title: Superficial Fiction
 date: 2026-01-18 09:00:00 +0000
 categories: [Poetry]
-tags: [superficial, shallow, mega city, connection]
+tags: [superficial, shallow, megacity, connection]
 ---
 
 It's ironic, the duality of me  
