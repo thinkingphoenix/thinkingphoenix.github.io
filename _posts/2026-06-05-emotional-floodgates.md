@@ -7,7 +7,7 @@ tags: [outburst, emotions, restraint]
 
 Their mention brings you a smile?  
 Tighten your lips. If you smiled,  
-Limit how wide it stretches.
+Limit how wide it stretches.  
 Leave no room for any guesses.  
 
 Does their appearance make you  
