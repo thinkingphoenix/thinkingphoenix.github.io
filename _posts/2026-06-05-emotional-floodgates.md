@@ -1,5 +1,5 @@
 ---
-title: 
+title: Emotional Floodgates
 date: 2026-06-05 09:00:00 +0000
 categories: [Poetry]
 tags: [outburst, emotions, restraint]
