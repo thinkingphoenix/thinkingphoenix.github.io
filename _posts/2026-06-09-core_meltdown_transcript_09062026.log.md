@@ -36,7 +36,7 @@ My soul being stripped off?
 
 Sometimes I look at my hands.  
 The scars outside and the scars within.  
-Flaws people point out : My hair, 
+Flaws people point out : My hair,  
 My body, my existence, my very skin.  
 
 And realise what's the point of it all?  
