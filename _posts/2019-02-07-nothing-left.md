@@ -2,7 +2,7 @@
 title: Nothing Left
 date: 2019-02-07 00:00:00 +0000
 categories: [Poetry]
-tags: [heartbreak, betrayal, sorrow, darkness, loss, hindi]
+tags: [heartbreak, betrayal, sorrow, darkness, loss]
 ---
 
 I know there've been nights  

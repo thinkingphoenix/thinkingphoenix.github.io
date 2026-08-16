@@ -2,7 +2,7 @@
 title: Reflection
 date: 2019-03-25 00:00:00 +0000
 categories: [Poetry]
-tags: [reflection, self-doubt, deception, pain, existential, hindi]
+tags: [reflection, self-doubt, deception, pain, existential]
 ---
 
 He imitates me  
