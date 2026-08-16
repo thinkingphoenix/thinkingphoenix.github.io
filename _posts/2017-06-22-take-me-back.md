@@ -2,7 +2,7 @@
 title: Take Me Back
 date: 2017-06-22 00:00:00 +0000
 categories: [Poetry]
-tags: [regret, past, pain, despair, memory, hindi]
+tags: [regret, past, pain, despair, memory]
 ---
 
 Take me back  

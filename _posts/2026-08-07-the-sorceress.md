@@ -2,7 +2,7 @@
 title: The Sorceress
 date: 2026-08-07 00:00:00 +0000
 categories: [Poetry]
-tags: [sorceress, vulnerability, emotion, love, internal-struggle, hindi]
+tags: [sorceress, vulnerability, emotion, love, internal-struggle]
 ---
 
 Serenity. I know this word.  

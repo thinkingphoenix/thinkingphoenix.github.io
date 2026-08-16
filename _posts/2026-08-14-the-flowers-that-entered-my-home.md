@@ -2,7 +2,7 @@
 title: The Flowers that Entered my Home
 date: 2026-08-14 00:00:00 +0000
 categories: [Poetry]
-tags: [flowers, heartbreak, reality, friendship, reflection, hindi]
+tags: [flowers, heartbreak, reality, friendship, reflection]
 ---
 
 It was a Thursday morning.  

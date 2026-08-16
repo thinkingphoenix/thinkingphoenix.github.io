@@ -2,7 +2,7 @@
 title: Cigarettes And Pens
 date: 2017-06-15 00:00:00 +0000
 categories: [Poetry]
-tags: [habits, writing, smoke, pain, expression, hindi]
+tags: [habits, writing, smoke, pain, expression]
 ---
 
 It makes no difference  

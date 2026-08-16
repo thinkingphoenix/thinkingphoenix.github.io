@@ -2,7 +2,7 @@
 title: The Wishing Well
 date: 2026-08-11 00:00:00 +0000
 categories: [Poetry]
-tags: [wishing-well, longing, devotion, protection, love, hindi]
+tags: [wishing-well, longing, devotion, protection, love]
 ---
 
 I wish I could be  

@@ -2,7 +2,7 @@
 title: The Convergence
 date: 2026-08-12 00:00:00 +0000
 categories: [Poetry]
-tags: [convergence, connection, poetry, soul, reflection, hindi]
+tags: [convergence, connection, poetry, soul, reflection]
 ---
 
 The city glows at night. 

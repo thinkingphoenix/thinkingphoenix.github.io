@@ -2,7 +2,7 @@
 title: Some Other Universe
 date: 2017-06-08 00:00:00 +0000
 categories: [Poetry]
-tags: [solitude, insanity, pain, realism, darkness, hindi]
+tags: [solitude, insanity, pain, realism, darkness]
 ---
 
 And almost in some other universe,  
