@@ -6,7 +6,7 @@ tags: [rain, nature, reflection, life, carefree, solitude]
 ---
 
 Drip, drip, drip, hit the rain  
- roads, the streets  
+The roads, the streets  
 The cars on four wheels.  
 The people, struggling in glued jeans,  
 All scurried on slippery feet.  
