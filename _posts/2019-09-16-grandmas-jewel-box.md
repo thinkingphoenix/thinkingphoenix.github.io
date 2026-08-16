@@ -20,24 +20,21 @@ That withstood the test of time;
 Strong as herself, saw her man leave,  
 And a child with a far, settled life.  
 
-<blockquote style="border-left: 3px solid #d4af37; padding-left: 15px; margin-left: 0; font-style: italic;">
+***Jade:***  
+*Her aged hand passes over them.*  
+*Their smooth faces begin to warm,*  
+*Saying though her world was now lonely;*  
+*From unwritten letters, unmade calls,*  
 
-Her aged hand passes over them.  
-Their smooth faces begin to warm,  
-Saying though her world was now lonely;  
-From unwritten letters, unmade calls,  
+*Unmade visits from distant friends,*  
+*Unsent invites from relatives,*  
+*Her jewelry were talismans*   
+*That stored all of her fond memories.*  
 
-Unmade visits from distant friends,  
-Unsent invites from relatives,  
-Her jewelry were talismans   
-That stored all of her fond memories.  
-
-</blockquote>
-
-Her life had known some happy times,  
-Her jewelry had known them too.  
-She remembers them all and sighs,  
-Smiling in her lonely, quiet room.  
+*Her life had known some happy times,*  
+*Her jewelry had known them too.*  
+*She remembers them all and sighs,*  
+*Smiling in her lonely, quiet room.*  
 
 ---
 
