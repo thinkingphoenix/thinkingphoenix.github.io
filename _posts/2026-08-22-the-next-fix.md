@@ -1,6 +1,6 @@
 ---
 title: The Next Fix
-date: 2026-08-23 00:00:00 +0000
+date: 2026-08-22 00:00:00 +0000
 categories: [Poetry]
 tags: [disillusionment, addiction, breakdown, remorse]
 ---
