@@ -2,7 +2,7 @@
 title: And then they forget me
 date: 2026-08-21 00:00:00 +0000
 categories: [Poetry]
-tags: [sorrow, love, lament, defiance]
+tags: [sorrow, love, lament, defiance, nonet, reverse nonet, mirror nonet]
 ---
 
 I  
