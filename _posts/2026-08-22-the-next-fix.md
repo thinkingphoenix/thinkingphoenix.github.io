@@ -10,7 +10,7 @@ Waiting for our next fix?
 Why would it matter  
 How beyond repair I am,  
 If I can walk amid you all,  
-Hide the bruises of my fall
+Hide the bruises of my fall  
 And wear synthetic joy?  
 Just like the toy  
 I am. I will provide comfort  
