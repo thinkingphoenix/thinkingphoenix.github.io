@@ -1,0 +1,29 @@
+---
+---
+
+/* Import Chivo Mono from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@400;500;600;700&display=swap');
+
+/* Apply Chivo Mono to the entire site */
+:root {
+  --font-family-base: 'Chivo Mono', monospace;
+}
+
+* {
+  font-family: 'Chivo Mono', monospace;
+}
+
+body {
+  font-family: 'Chivo Mono', monospace;
+}
+
+/* Ensure headings also use Chivo Mono */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Chivo Mono', monospace;
+  font-weight: 500;
+}
+
+/* Code blocks should maintain monospace styling */
+code, pre {
+  font-family: 'Chivo Mono', monospace;
+}
