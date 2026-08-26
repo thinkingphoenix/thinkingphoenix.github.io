@@ -2,7 +2,7 @@
 title: My Burning Soul
 date: 2026-08-26 00:00:00 +0000
 categories: [Poetry]
-tags: [tag1, tag2]
+tags: [rage, despair, hurt, love, pain]
 ---
 
 I douse my head in water,  
