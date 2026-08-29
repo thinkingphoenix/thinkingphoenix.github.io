@@ -1,6 +1,6 @@
 ---
 title: चांद एक उपग्रह
-date: 2026-08-30 02:04:00 +0000
+date: 2026-08-29 02:04:00 +0000
 categories: [Poetry]
 tags: [hindi-poetry, hindi, romance, love, moon]
 ---
