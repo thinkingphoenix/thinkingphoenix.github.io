@@ -52,6 +52,6 @@ Scanning for issues in stability...
 ALERT : Detected anomalies.  
 Loading source. Scanning the directories....
 ^C
-Error : sequence terminated abrutply.  
+Error : sequence terminated abruptly.  
 [hidden-user] ~$ : 
 ```
