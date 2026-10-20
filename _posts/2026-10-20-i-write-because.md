@@ -1,6 +1,6 @@
 ---
 title: I Write Because
-date: 2026-10-20 00:00:00 +0000
+date: 2026-10-20 00:00:00 +0530
 categories: [Poetry]
 tags: [apathy, pain, expression]
 ---
