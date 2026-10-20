@@ -26,15 +26,15 @@ And leaves me in tears of rage.
 I jumped into a fire,  
 The fire that lit my path.  
 The fire, now all soot, embers and ash    
-Of my beloved that I can't bring back.
+Of my beloved that I can't bring back.  
 
 I jumped into a fire,  
 Thinking it was a trial.  
-Why have I not realised 
+Why have I not realised  
 That it's just my heart, suicidal?  
 
 I jumped into a fire,  
 I'm no longer human, I've turned.  
 Into what? I don't know.  
-I jumped into a fire, 
+I jumped into a fire,  
 And now I'm all burnt.
