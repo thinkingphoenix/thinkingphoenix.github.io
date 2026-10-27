@@ -1,5 +1,5 @@
 ---
-title: 2026-10-28-schrodingers-experiment
+title: Schrodinger's Experiment
 date: 2026-10-28 04:20:32 +0530
 categories: [Poetry]
 tags: [distress, paradox, contradiction]
