@@ -37,7 +37,7 @@ For anyone else, none of me is left.
 My head hurts  
 And I stop my neck that turns  
 To see if you're alright.  
-But I recall what happens to me isn't past your vanity.  
+Since I recall what happens to me isn't past your vanity.  
 
 You can villainize me.  
 I can villainize you just as much.  
