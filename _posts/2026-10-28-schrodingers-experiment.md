@@ -99,7 +99,7 @@ And doing so in secrecy.
 
 Because a yearner is only subject to hurt.  
 How dare I expect to be loved like a human  
-When all I know is to be discarded, disowned and disturbed.  
+When all I know is to be discarded, disowned and disturbed?  
 
 Fuck this all, fuck the Schrodinger's cat.  
 It may have lived or died;   
