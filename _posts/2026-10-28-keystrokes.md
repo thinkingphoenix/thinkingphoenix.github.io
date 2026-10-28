@@ -10,7 +10,7 @@ From anyone else, I'm the fool to expect.
 My head hurts  
 And I resist the urge  
 To utter a word to you,  
-Lest I hear your haughty, disdainfull voice.  
+Lest I hear your haughty, disdainful voice.  
 Your mockery of me in which you revel, rejoice.  
 
 I saw you as my Queen,  
